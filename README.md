@@ -1,7 +1,8 @@
 #     
 
+<div align="center">
+
+![caducusintro](https://github.com/user-attachments/assets/cb4ea546-f6d3-43c5-8e76-4915f0e3db2f)<br/>
 
 
-https://github.com/user-attachments/assets/ba7343a7-7b33-4467-a06a-6ab016c005d9
-
-I'll add info later I'm too lazyyyy
+<p align=center> no info yet sorry

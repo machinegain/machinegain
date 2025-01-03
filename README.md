@@ -7,7 +7,7 @@
 
 <p align=center> Ilmestys (Stys) / Caducus
 <p align=center> He/Him 14 (18+ iwc)
-<p align=center> DNI Roleplay, JJK or Demon Slayer fans
+<p align=center> DNI JJK or Demon Slayer fans, RPdniuf
 
 <p align=center> Australian
 <p align=center> This is so LAZY but I can't be bothered to make it look good right now

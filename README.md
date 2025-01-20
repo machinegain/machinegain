@@ -11,7 +11,6 @@
 <p align=center>the biggest wip you've ever seen..sorry...
 
 #
-![](https://files.catbox.moe/z2fosz.png)
 <p align=center> info will be here...
 
 #

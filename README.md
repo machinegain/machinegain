@@ -8,10 +8,20 @@
 
 #
 
-<p align=center>the biggest wip you've ever seen..sorry...
+<p align=center>the biggest wip you've ever seen..tryign to figure out how code works...
 
 #
-<p align=center> info will be here...
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fcee4d29-c004-4fbb-a148-c1161ee3a679">
+</div>
+
+<p align=center> <font color="#475680"> <em>astro</em> / <strong>novalite</strong> / stys </font> 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fcee4d29-c004-4fbb-a148-c1161ee3a679">
+</div>
+
 
 #
 <p align=center> links will be here...

@@ -16,10 +16,16 @@
   <img src="https://github.com/user-attachments/assets/fcee4d29-c004-4fbb-a148-c1161ee3a679">
 </div>
 
-<p align=center> <font color="#475680"> <em>astro</em> / <strong>novalite</strong> / stys </font> 
+<p align=center> <font color="#475680"> ... <em>astro</em> / <strong>nova</strong> / stys ...
+  
+<p align=center> he/<em>star</em>...</em> 
+  
+<div align="center"> <img src="https://files.catbox.moe/h2z9xt.png"> <img src="https://files.catbox.moe/zebl65.png">
 
+
+  <div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fcee4d29-c004-4fbb-a148-c1161ee3a679">
+  <img src="https://github.com/user-attachments/assets/fcee4d29-c004-4fbb-a148-c1161ee3a679"> 
 </div>
 
 

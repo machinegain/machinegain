@@ -21,7 +21,6 @@
   
 #### <p align=center> he/<em>star</em>...</em> 
 
- <div align="center"> <img src="https://files.catbox.moe/h2z9xt.png"> <img src="https://files.catbox.moe/zebl65.png">
 
 . . .
   <div>

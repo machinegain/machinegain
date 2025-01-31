@@ -3,8 +3,10 @@
   #
 
 
-  
-![](https://files.catbox.moe/eo14lb.png)
+<div align="center"> 
+
+![](https://files.catbox.moe/u2cz1w.png)
+</div>
 
 #
 

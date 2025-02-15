@@ -1,1 +1,1 @@
-I don't use Github that often. Strawpage might be made eventually
+I don't use Github that often anymore. Strawpage might be made eventually
